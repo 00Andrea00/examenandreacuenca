@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Aprende React",
+    "description": "React es una biblioteca de JavaScript para construir interfaces de usuario.",
+    "image": "../images/react.jpg",
+    "link": "https://es.react.dev/"
+  },
+  {
+    "id": 2,
+    "title": "Explora Gatsby",
+    "description": "Gatsby es un framework basado en React que permite crear sitios web rápidos y modernos.",
+    "image": "../images/gatsby.jpg",
+    "link": "https://www.gatsbyjs.com/"
+  },
+  {
+    "id": 3,
+    "title": "Diseña Figma",
+    "description": "Figma es una herramienta de diseño colaborativo utilizada por diseñadores y desarrolladores.",
+    "image": "../images/figma.jpg",
+    "link": "https://www.figma.com/"
+  }
+]
